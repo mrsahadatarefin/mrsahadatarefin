@@ -2,7 +2,7 @@
 # Hi I'm sahadat arefin
 🚀 JavaScript | React | MERN Stack Developer 🚀
 # 💫 About Me:
-🤔   Exploring new technologies and developing software solutions and quick hacks.<br>🌱 I’m currently learning more about Software design and development.<br>✍️   Pursuing Software Design, Development, and traveling is my hobbit.<br>💬 Ask me about web development<br>⚡ Fun fact  I am lazy but smart
+🤔   Exploring new technologies and developing software solutions and quick hacks.<br>🌱 I’m currently learning more about Software design and development.<br>✍️   Pursuing Software Design, Development, and traveling is my hobbit.<br>💬 Ask me about web development<br>⚡ Fun fact I love to tavel
 
 
 ## 🌐 Socials:
